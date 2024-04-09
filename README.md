@@ -48,6 +48,10 @@ Vale lembrar que existem validações em nosso sistema, por exemplo em "tipo_emp
 
 https://youtu.be/Q22Nc1Y658I
 
+# Vídeo explicativo
+
+https://www.youtube.com/watch?v=ZagCJOAS00s
+
 
 # Descrição dos endpoints
 
