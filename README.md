@@ -22,8 +22,13 @@ Vale lembrar que existem validações em nosso sistema, por exemplo em "tipo_emp
 
 5 - Deve-se tomar cuidado com os IDs das Entidades quando for realizar requisições que necessitam de um em sua URL. Se atentando para utilizar um já criado;
 
+6 - O projeto possui processos de autentificação, atenção com Chaves únicas e validações de campos.
 
+7 - Antes de qualquer requisição é recomendado criar um Usuario e logo em seguida executar o login, assim terá acesso a um TOKEN que pode ser utilizado no Insomnia em "Bearer" para habilitar as demais requisições.
 
+Observações: O arquivo nomeado "QuoteLevelling_API_DOTNET" é destinado para a entrega da Matéria de Enterprise Application Development, sendo uma API em .NET para cumprir o requisito da entrega.
+  O arquivo "quotelevelling_FULLMVC" é o início da transição para a arquitetura FULL MVC, aina não está completo.
+  O arquivo "Sprints Back-End" é o arquivo principal do nosso Back-End.
 
 
 # DIAGRAMA DE CLASSES
